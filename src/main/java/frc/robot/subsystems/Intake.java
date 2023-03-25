@@ -9,8 +9,8 @@ import edu.wpi.first.wpilibj.PneumaticsModuleType;
 import edu.wpi.first.wpilibj.Solenoid;
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
-import frc.ChenryLib.MathUtility;
-import frc.ChenryLib.PID;
+import frc.lib.pid.PID;
+import frc.lib.util.MathUtility;
 import frc.robot.Constants;
 
 public class Intake extends SubsystemBase{

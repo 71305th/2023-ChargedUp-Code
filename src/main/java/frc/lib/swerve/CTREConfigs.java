@@ -1,4 +1,4 @@
-package frc.lib.config;
+package frc.lib.swerve;
 
 import com.ctre.phoenix.sensors.AbsoluteSensorRange;
 import com.ctre.phoenix.sensors.CANCoderConfiguration;

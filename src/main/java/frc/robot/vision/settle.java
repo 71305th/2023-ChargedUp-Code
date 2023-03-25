@@ -1,4 +1,4 @@
-package frc.lib.vision;
+package frc.robot.vision;
 
 import edu.wpi.first.wpilibj.Timer;
 

@@ -15,12 +15,12 @@ import edu.wpi.first.wpilibj2.command.InstantCommand;
 import edu.wpi.first.wpilibj2.command.ParallelCommandGroup;
 import edu.wpi.first.wpilibj2.command.RunCommand;
 import edu.wpi.first.wpilibj2.command.SequentialCommandGroup;
-import frc.lib.vision.*;
 import frc.robot.autos.*;
 import frc.robot.commands.*;
 import frc.robot.subsystems.*;
 import frc.robot.subsystems.Index.indexPos;
 import frc.robot.subsystems.Index.indexStates;
+import frc.robot.vision.*;
 
 /**
  * This class is where the bulk of the robot should be declared. Since Command-based is a

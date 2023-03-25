@@ -12,9 +12,9 @@ import com.revrobotics.CANSparkMaxLowLevel.MotorType;
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
-import frc.ChenryLib.MathUtility;
-import frc.ChenryLib.PID;
-import frc.ChenryLib.SettledUtility;
+import frc.lib.pid.PID;
+import frc.lib.util.MathUtility;
+import frc.lib.util.SettledUtility;
 import frc.robot.Constants;
 
 public class Upper extends SubsystemBase {

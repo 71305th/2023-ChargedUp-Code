@@ -1,6 +1,6 @@
-package frc.ChenryLib;
+package frc.lib.util;
 
-
+// By Chenry (7130 5th Prog Lead)
 public class SettledUtility {
     
     private double atTargetTime = 200;

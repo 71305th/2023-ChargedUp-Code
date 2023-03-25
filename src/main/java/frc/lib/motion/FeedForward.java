@@ -1,5 +1,6 @@
-package frc.ChenryLib;
+package frc.lib.motion;
 
+// By Chenry (7130 5th Prog Lead)
 public class FeedForward {
         private double kA, kV, kP_Pos, kP_Vel, kS;
         

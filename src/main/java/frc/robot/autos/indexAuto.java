@@ -2,10 +2,10 @@ package frc.robot.autos;
 
 import edu.wpi.first.wpilibj.Timer;
 import edu.wpi.first.wpilibj2.command.CommandBase;
-import frc.lib.vision.settle;
 import frc.robot.subsystems.Index;
 import frc.robot.subsystems.Index.indexStates;
 import frc.robot.subsystems.Index.tilterPos;
+import frc.robot.vision.settle;
 
 public class indexAuto extends CommandBase{
     Index index;

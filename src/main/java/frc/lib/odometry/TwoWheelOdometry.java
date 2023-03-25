@@ -1,5 +1,8 @@
-package frc.ChenryLib;
+package frc.lib.odometry;
 
+import frc.lib.util.MathUtility;
+
+// By Chenry (7130 5th Prog Lead)
 public class TwoWheelOdometry {
     double chassisWidth = 1;
     double lastLeft = 0;

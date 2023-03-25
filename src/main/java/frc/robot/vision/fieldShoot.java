@@ -1,4 +1,4 @@
-package frc.lib.vision;
+package frc.robot.vision;
 
 import edu.wpi.first.math.geometry.Transform3d;
 import edu.wpi.first.math.geometry.Translation3d;
