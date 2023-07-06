@@ -39,8 +39,8 @@ public class Index extends SubsystemBase {
   private indexStates lastState;
 
   public enum indexStates {
-    Indexing,
-    IndexHuman,
+    Indexing, // intake from floor
+    IndexHuman, // intake from single station
     AimTop,
     AimMiddle,
     AimBottom,
@@ -50,7 +50,7 @@ public class Index extends SubsystemBase {
   public enum indexPos {
     Up, // Up Limit
     Down, // Down Limit
-    GridCom, // In Community
+    GridCom, // In Community  
     LowerGrid // lower
   }
 
